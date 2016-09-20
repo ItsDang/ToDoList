@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/MatthewBaoDang/AndroidStudioProjects/ToDoList/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/MatthewBaoDang/AndroidStudioProjects/ToDoList/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_4cc947603561aec86876f694258a7a5c4312f9ac/classes.dex" />
+    </item>
+    <item
+        jar="/Users/MatthewBaoDang/AndroidStudioProjects/ToDoList/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/MatthewBaoDang/AndroidStudioProjects/ToDoList/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_82933e6b5f3517ceb97c36cb2b3edab4e9ec2764/classes.dex" />
+    </item>
+    <item
+        jar="/Users/MatthewBaoDang/AndroidStudioProjects/ToDoList/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/MatthewBaoDang/AndroidStudioProjects/ToDoList/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_eccc26d3430609fa8ab8cd2e7b872a40b781c5e2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/MatthewBaoDang/AndroidStudioProjects/ToDoList/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="57837524fe81d99d459478731098636ac2a7ea2d">
+        <dex dex="/Users/MatthewBaoDang/AndroidStudioProjects/ToDoList/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_45b91ac13a2ad6dc5c8b65a5634b8ed689ee502c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/MatthewBaoDang/AndroidStudioProjects/ToDoList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/MatthewBaoDang/AndroidStudioProjects/ToDoList/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_3a388d63a66f5553fde882417e09f8d8b87c8136/classes.dex" />
+    </item>
+    <item
+        jar="/Users/MatthewBaoDang/AndroidStudioProjects/ToDoList/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/MatthewBaoDang/AndroidStudioProjects/ToDoList/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_6c988f5a4e50b1aa3846d8d14dae4dbda7b1ad65/classes.dex" />
+    </item>
+    <item
+        jar="/Users/MatthewBaoDang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/MatthewBaoDang/AndroidStudioProjects/ToDoList/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_9560cb47a887e592c7f87a50573d41e9f3146bf4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/MatthewBaoDang/AndroidStudioProjects/ToDoList/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3965edcee0b572ca5eeb01c29ea99700ee45a49f">
+        <dex dex="/Users/MatthewBaoDang/AndroidStudioProjects/ToDoList/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b3dd7c2fa2ca38e32b5a82b4d00e09c83f059809/classes.dex" />
+    </item>
+
+</items>
